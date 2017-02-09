@@ -1,1 +1,1 @@
-<h2>Loop "For" performance and memory usage</h2>
+<h2>Performance and memory usage of loop for</h2>
